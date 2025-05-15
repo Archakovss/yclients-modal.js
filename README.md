@@ -12,7 +12,7 @@
 Вставьте этот код в футер на своем сайте:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Archakovss/yclients-modal.js@latest/yclients-modal.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Archakovss/yclients-modal.js@v1.6.2/yclients-modal.js"></script>
 ```
 
 🔗 Как работает
